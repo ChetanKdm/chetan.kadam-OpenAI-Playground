@@ -1,4 +1,4 @@
-# My Firts Interaction witrh AI 
+# My First Interaction witrh AI 
 
 _As a part of my Masters's course MDDI - this is one of the assignments in which the intention is to get us friendly with new emergent future tools.  
 My inputs or questions are in Italic format, I wanted to collect and write information about plastic waste and the Honeybee house project on which I am working._
