@@ -1,10 +1,10 @@
 # chetan.kadam|My Firts Interaction witrh AI 
+_As a part of my Masters's course MDDI - this is one of the assignments in which the intention is to get us friendly with new emergent future tools.  
+My inputs or questions are in Italic format, I wanted to collect and write information about plastic waste and the Honeybee house project on which I am working._
+
 _For my first interaction with AI, I used the below tool to have fun._
 
 _https://beta.openai.com/playground_
-
-_As a part of my Masters's course MDDI - this is one of the assignments in which the intention is to get us friendly with new emergent future tools.  
-My inputs or questions are in Italic format, I wanted to collect and write information about plastic waste and the Honeybee house project on which I am working._
 
 _Plastic waste pollution in India_
 
